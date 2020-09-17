@@ -1,0 +1,15 @@
+path:
+  source: "dist"
+seo:
+  root:
+    title: "このページはホームです"
+    description: "ホームの説明です"
+  page1:
+    title: "ページ１"
+    description: "ページ１の説明です"
+  page2:
+    title: "ページ2"
+    description: "ページ2の説明です"
+  page2/page3:
+    title: "ネストしたらこういう感じで書いてね"
+    description: "ページ３の説明です"
